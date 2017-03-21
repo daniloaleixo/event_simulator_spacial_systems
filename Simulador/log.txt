@@ -1,0 +1,2 @@
+52
+Falha ao obter as amostras de temperatura

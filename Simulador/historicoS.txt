@@ -1,0 +1,110 @@
+29/08/2013 06:38:08.854 Emitiu comando: COMEÇAR SIMULAÇAO
+29/08/2013 06:38:08.873 PDC inicializado com sucesso.
+29/08/2013 06:38:08.874 Emitiu comando: INFORMAR ESTADO
+29/08/2013 06:38:08.874 Verificação de estado do PDC realizada com sucesso - status: NominalST
+29/08/2013 06:38:08.874 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:08.874 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:08.875 Amostras obtidas com sucesso
+29/08/2013 06:38:08.875 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:08.875 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:08.875 Amostras obtidas com sucesso
+29/08/2013 06:38:21.585 Emitiu comando: COMEÇAR SIMULAÇAO
+29/08/2013 06:38:21.605 PDC inicializado com sucesso.
+29/08/2013 06:38:21.605 Emitiu comando: INFORMAR ESTADO
+29/08/2013 06:38:21.605 Verificação de estado do PDC realizada com sucesso - status: NominalST
+29/08/2013 06:38:21.606 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:21.606 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:21.606 Amostras obtidas com sucesso
+29/08/2013 06:38:21.606 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:21.606 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:21.606 Amostras obtidas com sucesso
+29/08/2013 06:38:22.376 Emitiu comando: COMEÇAR SIMULAÇAO
+29/08/2013 06:38:22.401 PDC inicializado com sucesso.
+29/08/2013 06:38:22.402 Emitiu comando: INFORMAR ESTADO
+29/08/2013 06:38:22.402 Verificação de estado do PDC realizada com sucesso - status: NominalST
+29/08/2013 06:38:22.402 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:22.402 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:22.402 Amostras obtidas com sucesso
+29/08/2013 06:38:22.403 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:38:22.403 Obtenção de novas amostras de temperatura
+29/08/2013 06:38:22.403 Amostras obtidas com sucesso
+29/08/2013 06:40:07.041 Emitiu comando: COMEÇAR SIMULAÇAO
+29/08/2013 06:40:07.058 PDC inicializado com sucesso.
+29/08/2013 06:40:07.058 Emitiu comando: INFORMAR ESTADO
+29/08/2013 06:40:07.058 Verificação de estado do PDC realizada com sucesso - status: NominalST
+29/08/2013 06:40:07.059 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:40:07.059 Obtenção de novas amostras de temperatura
+29/08/2013 06:40:07.059 Amostras obtidas com sucesso
+29/08/2013 06:40:07.059 Emitiu comando: OBTER TEMPERATURA
+29/08/2013 06:40:07.059 Obtenção de novas amostras de temperatura
+29/08/2013 06:40:07.059 Amostras obtidas com sucesso
+03/09/2013 04:13:26.834 Emitiu comando: COMEÇAR SIMULAÇAO
+03/09/2013 04:13:27.000 PDC inicializado com sucesso.
+03/09/2013 04:13:27.000 Emitiu comando: INFORMAR ESTADO
+03/09/2013 04:13:27.001 Verificação de estado do PDC realizada com sucesso - status: NominalST
+03/09/2013 04:13:27.001 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:13:27.001 Obtendo de novas amostras de temperatura
+03/09/2013 04:13:27.046 Amostras obtidas com sucesso
+03/09/2013 04:13:27.046 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:13:27.046 Obtendo de novas amostras de temperatura
+03/09/2013 04:13:27.046 Amostras obtidas com sucesso
+03/09/2013 04:19:35.049 Emitiu comando: COMEÇAR SIMULAÇAO
+03/09/2013 04:19:35.066 PDC inicializado com sucesso.
+03/09/2013 04:19:35.067 Emitiu comando: INFORMAR ESTADO
+03/09/2013 04:19:35.067 Verificação de estado do PDC realizada com sucesso - status: NominalST
+03/09/2013 04:19:35.067 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:19:35.067 Obtendo de novas amostras de temperatura
+03/09/2013 04:19:35.194 Nao consegui obter as amostras de temperatura
+03/09/2013 04:19:35.195 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:19:35.195 Obtendo de novas amostras de temperatura
+03/09/2013 04:19:35.197 Amostras obtidas com sucesso
+03/09/2013 04:20:07.531 Emitiu comando: COMEÇAR SIMULAÇAO
+03/09/2013 04:20:07.548 PDC inicializado com sucesso.
+03/09/2013 04:20:07.548 Emitiu comando: INFORMAR ESTADO
+03/09/2013 04:20:07.548 Verificação de estado do PDC realizada com sucesso - status: NominalST
+03/09/2013 04:20:07.548 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:07.548 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:07.556 Amostras obtidas com sucesso
+03/09/2013 04:20:07.557 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:07.557 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:07.559 Amostras obtidas com sucesso
+03/09/2013 04:20:13.046 Emitiu comando: COMEÇAR SIMULAÇAO
+03/09/2013 04:20:13.063 PDC inicializado com sucesso.
+03/09/2013 04:20:13.064 Emitiu comando: INFORMAR ESTADO
+03/09/2013 04:20:13.064 Verificação de estado do PDC realizada com sucesso - status: NominalST
+03/09/2013 04:20:13.064 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:13.064 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:13.072 Amostras obtidas com sucesso
+03/09/2013 04:20:13.072 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:13.072 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:13.073 Amostras obtidas com sucesso
+03/09/2013 04:20:43.881 Emitiu comando: COMEÇAR SIMULAÇAO
+03/09/2013 04:20:43.898 PDC inicializado com sucesso.
+03/09/2013 04:20:43.898 Emitiu comando: INFORMAR ESTADO
+03/09/2013 04:20:43.898 Verificação de estado do PDC realizada com sucesso - status: NominalST
+03/09/2013 04:20:43.898 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:43.898 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:43.906 Amostras obtidas com sucesso
+03/09/2013 04:20:43.906 Emitiu comando: OBTER TEMPERATURA
+03/09/2013 04:20:43.906 Obtendo de novas amostras de temperatura
+03/09/2013 04:20:43.908 Amostras obtidas com sucesso
+10/09/2013 03:24:25.644 Emitiu comando: COMEÇAR SIMULAÇAO
+10/09/2013 03:24:25.735 PDC inicializado com sucesso.
+10/09/2013 03:24:25.735 Emitiu comando: INFORMAR ESTADO
+10/09/2013 03:24:25.735 Verificação de estado do PDC realizada com sucesso - status: NominalST
+10/09/2013 03:24:25.736 Emitiu comando: OBTER TEMPERATURA
+10/09/2013 03:24:25.736 Obtendo de novas amostras de temperatura
+10/09/2013 03:24:25.882 Amostras obtidas com sucesso
+10/09/2013 03:24:25.883 Emitiu comando: OBTER TEMPERATURA
+10/09/2013 03:24:25.883 Obtendo de novas amostras de temperatura
+10/09/2013 03:24:25.885 Nao consegui obter as amostras de temperatura
+10/09/2013 03:26:05.118 Emitiu comando: COMEÇAR SIMULAÇAO
+10/09/2013 03:26:05.135 PDC inicializado com sucesso.
+10/09/2013 03:26:05.136 Emitiu comando: INFORMAR ESTADO
+10/09/2013 03:26:05.136 Verificação de estado do PDC realizada com sucesso - status: NominalST
+10/09/2013 03:26:05.136 Emitiu comando: OBTER TEMPERATURA
+10/09/2013 03:26:05.136 Obtendo de novas amostras de temperatura
+10/09/2013 03:26:05.144 Amostras obtidas com sucesso
+10/09/2013 03:26:05.145 Emitiu comando: OBTER TEMPERATURA
+10/09/2013 03:26:05.145 Obtendo de novas amostras de temperatura
+10/09/2013 03:26:05.146 Amostras obtidas com sucesso

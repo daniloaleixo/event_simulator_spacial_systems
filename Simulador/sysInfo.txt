@@ -1,0 +1,2 @@
+[status] ligado
+[modoOp] nominal
